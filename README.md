@@ -41,30 +41,58 @@ The main advantage of this project :
 **Images of the Application**</br>
 
 ## Covid-19 Detection
+* Used custom-made CNN architecture for this detection.
+* The accuracy achieved was around 93%.
+  
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZtejI2YmgxZGtvcWx6cmVsMGE3MGNsd3FkcGgzZ2ZrbGc3NDQzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mRYDBJnKQAeXL7C9wR/giphy.gif)
 </br>
 
 ## Brain Tumour Detection
+
+* Used VGG-16 for feature extraction.
+* Used custom-made CNN ahead of CNN.
+* The accuracy achieved was around 100% ?(just tested on 10 images).
+
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFjNnIzdDVycHdtN2MydWdsZHl5aWZwaHR6dDM1MWZvZzk4dHMwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kahG8dtDno4V73Fvg6/giphy.gif)
 </br>
 
 ## Breast Cancer Detection
+
+* Used Random Forest for this use case.
+* The accuracy achieved was around 91.81%.
+
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZrZGp3dXFyY2xwNjFlYnp1Zm9sdHVleHR1OHd2dXQyM21pdnBncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yVTimfOFyvaDrsvrKI/source.gif)
 </br>
 
 ## Alzheimer Detection
+
+* Trained CNN architecture for this use case.
+* The accuracy achieved was around 73.54%.
+
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVqZHpiempzaGdjMmxicDNxeWdsdTAxM3E3cm55N21sdTVibXN5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vsq6ySpMb9DyCXhY0/giphy.gif)
 </br>
 
 ## Diabetes Detection
+
+* Used Random Forest for this use case.
+* The accuracy achieved was around 66.8%.
+
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW02Mms1MHo1c3gwbWlodXF1aWUzd2sxMmI0enIxZW9uMTE0ZHJ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9srEDivkNQ53k3b2HT/giphy.gif)
 </br>
 
 ## Pneumonia Detection
+
+* Used custom CNN architecture for this use case.
+* The accuracy achieved was around 83.17%.
+
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJqZDAyZTJpcGprNHc4bmFxZDdqZzRucWxlY3J3Nmh2c3NseXFrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NUjdZ0NBsiBb3KMXhW/giphy.gif)
 </br>
 
 ## Heart Disease Detection
+
+* Used XGBoost for this use case.
+* The accuracy achieved was around 86.96%.
+
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjl5NXEwcWpnYjVhaHl0ZzRoZWFtdnU3M2YwNmp1OTN6eXI4eTk1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PD0Ytc8cTLxeL9WaDP/giphy.gif)
 </br>
 

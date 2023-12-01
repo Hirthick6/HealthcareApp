@@ -11,10 +11,7 @@
 ## Demo WebApp
 ### This project is called HealthCure which is an all-in-one medical solution. We know the future is all about AI so here is my idea of bringing 7 disease detections under one platform using the power of AI. 
  ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBpOXR4eGtoNm5yYWdiNXEyYzIwenpyMTEwdHBhZDVxcGt6ZjI0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzF8DYXcAutCgi1G0r/giphy.gif)
-
-
 ## Project Overview:
-
 #### Mr. Hirthick and Ms. Nandhini have successfully completed a groundbreaking project over the course of six months, focusing on Real-time Object Detection and Tracking using YOLOv8 and Streamlit. This collaborative effort showcases their expertise in computer vision, machine learning, and software development.
 
 - ### Team Members

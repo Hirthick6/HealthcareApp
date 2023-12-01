@@ -48,23 +48,25 @@ The main advantage of this project :
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFjNnIzdDVycHdtN2MydWdsZHl5aWZwaHR6dDM1MWZvZzk4dHMwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kahG8dtDno4V73Fvg6/giphy.gif)
 </br>
 
-## Covid-19 Detection
-<img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/nandhini.png">
-</br>
-
 ## Breast Cancer Detection
-<img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/attendance%20sheet.png">
+![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZrZGp3dXFyY2xwNjFlYnp1Zm9sdHVleHR1OHd2dXQyM21pdnBncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yVTimfOFyvaDrsvrKI/source.gif)
 </br>
 
 ## Alzheimer Detection
+![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVqZHpiempzaGdjMmxicDNxeWdsdTAxM3E3cm55N21sdTVibXN5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vsq6ySpMb9DyCXhY0/giphy.gif)
+</br>
 
 ## Diabetes Detection
-
+![demo]()
+</br>
 
 ## Pneumonia Detection
+![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJqZDAyZTJpcGprNHc4bmFxZDdqZzRucWxlY3J3Nmh2c3NseXFrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NUjdZ0NBsiBb3KMXhW/giphy.gif)
+</br>
 
 ## Heart Disease Detection
-
+![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjl5NXEwcWpnYjVhaHl0ZzRoZWFtdnU3M2YwNmp1OTN6eXI4eTk1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PD0Ytc8cTLxeL9WaDP/giphy.gif)
+</br>
 
 ## Technology Stack
 1. Python (*v - 3.9.13*)

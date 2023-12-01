@@ -84,18 +84,11 @@
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjl5NXEwcWpnYjVhaHl0ZzRoZWFtdnU3M2YwNmp1OTN6eXI4eTk1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PD0Ytc8cTLxeL9WaDP/giphy.gif)
 </br>
 
-## Technology Stack
-1. Python (*v - 3.9.13*)
-2. Streamlit
-3. Dlib
-4. Face Recognition
-5. OpenCV </br>
-
 ## How to Run
 * Clone the repository
 
 ```
-$ git clone https://github.com/dest-royer02/Attendance_Application.git
+$ git clone https://github.com/Hirthick6/HealthcareApp.git
 ```
 * Setup Virtual Environment
 
@@ -107,21 +100,30 @@ $ python3 -m venv env
 ```
 $ env\Scripts\activate
 ```
-* Install dependencies using
+* conda create -n healthcure python=3.9
+  conda activate healthcure 
+  pip install opencv-python numpy tensorflow scikit-learn==0.24.2 imutils flask xgboost
 
 ```
 $ pip install -r requirements.txt
-```
-* Run Streamlit
 
 ```
-$ streamlit run app.py
+$python app.py
 ```
 </br>
 
 ###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com) & (pnandhiniofficial@gmail.com)
 
+## FUTURE PLANS 📈
 
+* As time passes, we will be available with more and more data and we will try to make our models even more accurate by training on much more data.
 
+* Also, we will be adding more disease detections that can be detected using X-ray scans or just by inputting simple numbers.
+
+* We are also planning to add more features like if a person is found positive then our app will show him what precautions he needs to take and how he can cure himself.
+
+* We will also be storing the detection records.
+
+* So these are some future improvements/additions we plan to add.
 
 

@@ -12,7 +12,8 @@
 ###  Project HealthCure which is an all-in-one medical solution. We know the future is all about AI so here is my idea of bringing 7 disease detections under one platform using the power of AI. 
  ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBpOXR4eGtoNm5yYWdiNXEyYzIwenpyMTEwdHBhZDVxcGt6ZjI0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzF8DYXcAutCgi1G0r/giphy.gif)
 ## Project Overview:
-#### Mr. Hirthick and Ms. Nandhini have successfully completed a groundbreaking project over the course of six months, focusing on Real-time Object Detection and Tracking using YOLOv8 and Streamlit. This collaborative effort showcases their expertise in computer vision, machine learning, and software development.
+#### 
+### "Introducing Project HealthCure, a visionary initiative by Mr. Hirthick S, culminating in a remarkable 4-month journey. This all-in-one medical solution harnesses the potential of AI, deep learning, and machine learning to revolutionize healthcare. Witness the outcome of dedicated expertise as we bring together the detection of seven diseases under one powerful platform. Stay tuned for a healthcare transformation driven by innovation and efficiency."
 
 - ### Team Members
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBuZXZ0aGhqNTFtd3Q0MnBrbXUwcjBjNjI4M3JqcTFkaGw4eXdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXFdM9bohG4bqK2qOT/giphy.gif

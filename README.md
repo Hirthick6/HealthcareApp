@@ -20,12 +20,7 @@
 )
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4zOGJrdml6Y2J6bXBkeGk1MzdnN2ljeHA2NGM3OTFnOTF5ajFxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYKfK57T7t8Ndraf66/giphy.gif)
                                                                            
-## Demo Pics
-
-### Performance of Attendance Application System
-
-**Images of the Application**</br>
-
+## Demo Output Gif's
 ## Covid-19 Detection
 * Used custom-made CNN architecture for this detection.
 * The accuracy achieved was around 93%.

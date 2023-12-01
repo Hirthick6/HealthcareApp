@@ -1,26 +1,14 @@
-# HealthcareApp
-
-# Computer-Vision-Attendance-Application-Streamlit</br>
-## Features
-The main advantage of this project :
+# HealthcareApp-Application Using Machine Learning and Deep Learning</br>
 ## 7 disease detections:
 *Covid-19 Detection</br>
-
 *Brain Tumour Detection</br>
-
 *Breast Cancer Detection</br>
-
 *Alzheimer Detection</br>
-
 *Diabetes Detection</br>
-
 *Pneumonia Detection</br>
-
 *Heart Disease Detection
 </br>
-
 ## Demo WebApp
-
 ### This project is called HealthCure which is an all-in-one medical solution. We know the future is all about AI so here is my idea of bringing 7 disease detections under one platform using the power of AI. 
  ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBpOXR4eGtoNm5yYWdiNXEyYzIwenpyMTEwdHBhZDVxcGt6ZjI0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzF8DYXcAutCgi1G0r/giphy.gif)
 

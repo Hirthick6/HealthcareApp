@@ -45,7 +45,7 @@ The main advantage of this project :
 </br>
 
 ## Brain Tumour Detection
-<img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/hirthick.png">
+![demo] (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFjNnIzdDVycHdtN2MydWdsZHl5aWZwaHR6dDM1MWZvZzk4dHMwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kahG8dtDno4V73Fvg6/giphy.gif)
 </br>
 
 ## Covid-19 Detection

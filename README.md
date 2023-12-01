@@ -23,7 +23,7 @@ The main advantage of this project :
 
 This project is called HealthCure which is an all-in-one medical solution. We know the future is all about AI so here is my idea of bringing 7 disease detections under one platform using the power of AI. 
 
-[Computer-Vision-Attendance-Application-Streamlit](!(https://github.com/Hirthick6/HealthcareApp/blob/main/output%20gif/1%20(online-video-cutter.com).gif
+[Computer-Vision-Attendance-Application-Streamlit](!(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBpOXR4eGtoNm5yYWdiNXEyYzIwenpyMTEwdHBhZDVxcGt6ZjI0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzF8DYXcAutCgi1G0r/giphy.gif)
 )
 
 ## Project Overview:

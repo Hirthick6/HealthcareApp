@@ -76,7 +76,18 @@
 
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjl5NXEwcWpnYjVhaHl0ZzRoZWFtdnU3M2YwNmp1OTN6eXI4eTk1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PD0Ytc8cTLxeL9WaDP/giphy.gif)
 </br>
+### FUTURE PLANS 📈
 
+* As time passes, we will be available with more and more data and we will try to make our models even more accurate by training on much more data.
+
+* Also, we will be adding more disease detections that can be detected using X-ray scans or just by inputting simple numbers.
+
+* We are also planning to add more features like if a person is found positive then our app will show him what precautions he needs to take and how he can cure himself.
+
+* We will also be storing the detection records.
+
+* So these are some future improvements/additions we plan to add.
+* 
 ## How to Run
 * Clone the repository
 
@@ -107,16 +118,6 @@ $python app.py
 
 ###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com) & (pnandhiniofficial@gmail.com)
 
-## FUTURE PLANS 📈
 
-* As time passes, we will be available with more and more data and we will try to make our models even more accurate by training on much more data.
-
-* Also, we will be adding more disease detections that can be detected using X-ray scans or just by inputting simple numbers.
-
-* We are also planning to add more features like if a person is found positive then our app will show him what precautions he needs to take and how he can cure himself.
-
-* We will also be storing the detection records.
-
-* So these are some future improvements/additions we plan to add.
 
 

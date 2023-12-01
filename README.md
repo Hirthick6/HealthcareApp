@@ -21,7 +21,7 @@ The main advantage of this project :
 
 ## Demo WebApp
 
-## This project is called HealthCure which is an all-in-one medical solution. We know the future is all about AI so here is my idea of bringing 7 disease detections under one platform using the power of AI. 
+### This project is called HealthCure which is an all-in-one medical solution. We know the future is all about AI so here is my idea of bringing 7 disease detections under one platform using the power of AI. 
  ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBpOXR4eGtoNm5yYWdiNXEyYzIwenpyMTEwdHBhZDVxcGt6ZjI0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzF8DYXcAutCgi1G0r/giphy.gif)
 
 
@@ -36,28 +36,35 @@ The main advantage of this project :
                                                                            
 ## Demo Pics
 
-### Home page
-
-<img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/home.png">
-
 ### Performance of Attendance Application System
 
 **Images of the Application**</br>
-## New Entry
-<img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/New%20entry.png">
+
+## Covid-19 Detection
+![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZtejI2YmgxZGtvcWx6cmVsMGE3MGNsd3FkcGgzZ2ZrbGc3NDQzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mRYDBJnKQAeXL7C9wR/giphy.gif)
 </br>
 
-## Team Member attendance screen shot 1:
+## Brain Tumour Detection
 <img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/hirthick.png">
 </br>
 
-## Team Member attendance screen shot 2:
+## Covid-19 Detection
 <img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/nandhini.png">
 </br>
 
-## Attendance Result sheet:
+## Breast Cancer Detection
 <img src="https://github.com/Hirthick6/Computer-Vision-Attendance-Application-Streamlit/blob/main/output/attendance%20sheet.png">
 </br>
+
+## Alzheimer Detection
+
+## Diabetes Detection
+
+
+## Pneumonia Detection
+
+## Heart Disease Detection
+
 
 ## Technology Stack
 1. Python (*v - 3.9.13*)

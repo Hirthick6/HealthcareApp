@@ -4,12 +4,18 @@
 ## Features
 The main advantage of this project :
 ## 7 disease detections:
-*Covid-19 Detection
-*Brain Tumour Detection
-*Breast Cancer Detection
-*Alzheimer Detection
-*Diabetes Detection
-*Pneumonia Detection
+*Covid-19 Detection</br>
+
+*Brain Tumour Detection</br>
+
+*Breast Cancer Detection</br>
+
+*Alzheimer Detection</br>
+
+*Diabetes Detection</br>
+
+*Pneumonia Detection</br>
+
 *Heart Disease Detection
 </br>
 
@@ -17,7 +23,7 @@ The main advantage of this project :
 
 This project is called HealthCure which is an all-in-one medical solution. We know the future is all about AI so here is my idea of bringing 7 disease detections under one platform using the power of AI. 
 
-[Computer-Vision-Attendance-Application-Streamlit](![demo](https://github.com/Hirthick6/HealthcareApp/blob/main/output%20gif/1%20(online-video-cutter.com).gif
+[Computer-Vision-Attendance-Application-Streamlit](!(https://github.com/Hirthick6/HealthcareApp/blob/main/output%20gif/1%20(online-video-cutter.com).gif
 )
 
 ## Project Overview:

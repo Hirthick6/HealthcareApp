@@ -87,7 +87,9 @@
 * We will also be storing the detection records.
 
 * So these are some future improvements/additions we plan to add.
-* 
+
+* ###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com) 
+  
 ## How to Run
 * Clone the repository
 
@@ -114,9 +116,7 @@ $ pip install -r requirements.txt
 ```
 $python app.py
 ```
-</br>
 
-###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com) & (pnandhiniofficial@gmail.com)
 
 
 

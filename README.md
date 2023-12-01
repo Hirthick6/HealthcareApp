@@ -57,7 +57,7 @@ The main advantage of this project :
 </br>
 
 ## Diabetes Detection
-![demo]()
+![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW02Mms1MHo1c3gwbWlodXF1aWUzd2sxMmI0enIxZW9uMTE0ZHJ5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9srEDivkNQ53k3b2HT/giphy.gif)
 </br>
 
 ## Pneumonia Detection
